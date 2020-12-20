@@ -1,6 +1,7 @@
 ## Build and Run
 
 $ make
+
 $ ./vocabulary vocabulary_list_base.txt
 
 ## Beschreibung
